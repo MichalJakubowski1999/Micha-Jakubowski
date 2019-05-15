@@ -12,4 +12,4 @@ Planowane klasy:
 
 - cSciany - klasa ta będzie odpowiadać za ściany i zasłony na planszy za którymi gracz bedzie mógł się schować
 
-- cPociska - ruch rakiety i kolizja z drugim czołkiem 
+- cPociska - ruch rakiety i kolizja z drugim czołgiem 
