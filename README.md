@@ -8,6 +8,6 @@ Planowane klasy:
 
 - cWieza - obrotowa wieżyczka która wystrzeliwuje rakiety
 
--cPodwozie - ruchome podwozie czołgu 
+- cPodwozie - ruchome podwozie czołgu 
 
--cSciany - klasa ta bedzie odpowiadać za ściany i zasłona na planszy za którymi gracz bedzie mógł się schować
+- cSciany - klasa ta bedzie odpowiadać za ściany i zasłona na planszy za którymi gracz bedzie mógł się schować
