@@ -1,2 +1,2 @@
 # Micha-Jakubowski
-Tank 1990 
+Projek Informatyka: Tank 1990 
